@@ -234,7 +234,7 @@ Screenshots
 
 Example:
 
-```md
+
 ## Login Page
 
 ![Login](Screenshots/login.png)
@@ -246,7 +246,7 @@ Example:
 ## Cart Page
 
 ![Cart](Screenshots/cart.png)
-```
+
 
 ---
 
